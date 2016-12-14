@@ -14,11 +14,14 @@ Usage example
 -------------
 
    1. http://localhost/scripts/screencapture.dll/about
+   
       Display a short message
       Response type is text/html
 
    2. http://localhost/scripts/screencapture.dll
+      
       http://localhost/scripts/screencapture.dll?compr=90&time=yes
+      
       Display a screen capture of server screen.
       Response type is image/jpeg
 
