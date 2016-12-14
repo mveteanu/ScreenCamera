@@ -3,6 +3,10 @@ ScreenCapture ISAPI module
 
 Last update: 2001
 
+By installing this ISAPI module on your IIS server, you can view server-side desktop activity in any web browser.
+You can use this to build a rudimentary remote desktop viewer for your server.
+
+
 Install
 -------
 
